@@ -10,7 +10,7 @@ python3 -u -m gfootball.examples.run_ppo2 \
   --num_timesteps 50000000 \
   --max_grad_norm 0.76 \
   --lr 0.00011879 \
-  --num_envs 16 \
+  --num_envs 20 \
   --noptepochs 2 \
   --nminibatches 4 \
   --nsteps 512 \
